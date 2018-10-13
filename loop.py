@@ -74,3 +74,4 @@ while not gameOver:
             print('I don\'t understand.')
         else:
             print('It\'s too dark! You can\'t see anything!')
+print('Thanks for playing!')
