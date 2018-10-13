@@ -1,0 +1,7 @@
+print('Hello, and welcome to the multiplication calculator!')
+print('Please input your first number!')
+numnum=float(input())
+print('Please input your second number!')
+normalnumnum=float(input())
+print(numnum*normalnumnum)
+print('There you go!')
